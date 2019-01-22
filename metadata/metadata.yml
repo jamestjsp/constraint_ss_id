@@ -1,0 +1,19 @@
+metadata_version: 1
+name: System identification with prior knowledge on the impulse response
+description: 'Subspace identification methods may produce unreliable model estimates
+  when a small number of noisy measurements are available. In such cases, the accuracy
+  of the estimated parameters can be improved by using prior knowledge about the system.
+  We propose a method that computes a state space representation from input/output
+  data of the system, using prior knowledge about the impulse response. The method
+  has two steps: 1) estimation of the impulse response with linear equality and inequality
+  constraints, and 2) realization of the estimated impulse response. In the case of
+  prior knowledge expressed as equality constraints, the problem on step 1 admits
+  a closed form solution.'
+tags:
+- algorithm
+authors:
+- name: Ivan Markovsky
+  affiliations:
+  - name: Vrije Universiteit Brussel
+corresponding_contributor:
+  name: Ivan Markovsky
